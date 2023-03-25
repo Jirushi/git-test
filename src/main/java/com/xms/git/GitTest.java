@@ -9,5 +9,7 @@ public class GitTest {
         System.out.println("hello master");
         System.out.println("push test");
         System.out.println("ssh push test");
+        System.out.println("ssh pull test");
+       
     }
 }
